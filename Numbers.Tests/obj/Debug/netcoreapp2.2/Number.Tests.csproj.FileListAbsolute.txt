@@ -1,0 +1,17 @@
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Number.Tests.deps.json
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Number.Tests.runtimeconfig.json
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Number.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Number.Tests.dll
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Number.Tests.pdb
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Numbers.dll
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/bin/Debug/netcoreapp2.2/Numbers.pdb
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.csproj.CopyComplete
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.dll
+/Users/Guest/Desktop/Numbers-To-Words/Numbers.Tests/obj/Debug/netcoreapp2.2/Number.Tests.pdb
