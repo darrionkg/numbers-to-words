@@ -47,6 +47,16 @@ namespace NumbersToWords
       return numberArray;
     }
 
-    
+    public void FindMatch(char[])
+    {
+      //get number of digits
+      //if unique value, use tens to twenty, use hundreds
+      //else use ones value, use tens value, use hundreds
+      //start loop at the back
+      //for(i=arr.length-3; i>0; i-3)
+      //use other Places
+
+    }
+
   }
 }
